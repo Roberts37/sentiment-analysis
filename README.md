@@ -19,4 +19,4 @@ This project involves sentiment analysis on Yelp reviews using advanced natural 
 - Python
 - BeautifulSoup
 - Hugging Face Transformers
-- pandas
+- Pandas
